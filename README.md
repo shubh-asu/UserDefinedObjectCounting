@@ -2,7 +2,9 @@
 
 Combined FasterRCNN for object detection and Centroid Tracking algorithms, with a Line-Segment drawing tool to count objects passing through the user-drawn lines on the video. OOP used here allows users to draw multiple line-segment counters on the video.
 
-## Installation
+## Installation and Usage
+
+Run app.py to run the project on your laptop camera feed.
 
 Use [pip](https://pip.pypa.io/en/stable/) to install requirements for the project.
 
