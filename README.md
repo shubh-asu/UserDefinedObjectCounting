@@ -4,7 +4,7 @@ Combined FasterRCNN for object detection and Centroid Tracking algorithms, with 
 
 ## Installation and Usage
 
-Run app.py to run the project on your laptop camera feed.
+Run **app.py** to run the project on your laptop camera feed.
 
 Use [pip](https://pip.pypa.io/en/stable/) to install requirements for the project.
 
