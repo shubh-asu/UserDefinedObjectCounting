@@ -1,6 +1,5 @@
-# User-Defined Object Counting Video Tool
-
-Combined FasterRCNN for object detection and Centroid Tracking algorithms, with a Line-Segment drawing tool to count objects passing through the user-drawn lines on the video. OOP used here allows users to draw multiple line-segment counters on the video.
+# FVBCM - Flexible Vision-Based Crowd Tracking
+Combined FasterRCNN for object detection and Centroid Tracking algorithms, with a Line-Segment drawing tool to count people passing through the user-drawn lines on the video. OOP used here allows users to draw multiple line-segment counters on the video.
 
 ## Installation and Usage
 
