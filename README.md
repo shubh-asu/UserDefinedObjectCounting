@@ -1,5 +1,5 @@
-# FVBCM - Flexible Vision-Based Crowd Tracking
-Combined FasterRCNN for object detection and Centroid Tracking algorithms, with a Line-Segment drawing tool to count people passing through the user-drawn lines on the video. OOP used here allows users to draw multiple line-segment counters on the video.
+# FVBCM - Flexible Vision-Based Crowd Monitoring
+You can draw lines on the videos and it will act as counters to count people passing through those lines. Combined FasterRCNN for object detection and Centroid Tracking algorithms, with a Line-Segment drawing tool to count people passing through the user-drawn lines on the video. OOP allowed users to draw and edit multiple line-segment counters.
 
 ## Installation and Usage
 
